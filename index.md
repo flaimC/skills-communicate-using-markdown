@@ -4,11 +4,10 @@
 Text
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-''' 
+```
 $ git clone blah.blah
 cloned the repo
-'''
-
-'''javascript
+```
+```javascript
 var myCat = "orangeCat";
-'''
+```
