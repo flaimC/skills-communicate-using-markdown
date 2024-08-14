@@ -11,3 +11,7 @@ cloned the repo
 ```javascript
 var myCat = "orangeCat";
 ```
+
+- [ ] Eat lunch
+- [ ] Glider things
+- [ ] Be the glider
