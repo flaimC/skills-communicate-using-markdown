@@ -3,3 +3,12 @@
 ### Header 3
 Text
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+''' 
+$ git clone blah.blah
+cloned the repo
+'''
+
+'''javascript
+var myCat = "orangeCat";
+'''
